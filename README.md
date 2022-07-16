@@ -2,8 +2,8 @@
 ### `npm install` to install package
 ### `npm start` to start live server
 
-## yarn-berry
-### `npm install -g yarn` to install yarn last version
+## yarn-berry (If you develop to use a Typescript, there will be an error)
+### `npm install -g yarn` to install last version of yarn
 ### `delete package.json, yarn.lock in User` to set up yarn berry before
 ### `yarn set version berry` to set yarn berry
 ### `yarn install` to install package
