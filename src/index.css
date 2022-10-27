@@ -1,25 +1,11 @@
-@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+
+*{
+	outline: none;
+}
 
 body {
-  margin: 0;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
-}
-
-* {
-  font-family: "Noto Sans KR", sans-serif;
-  background-color: initial;
-  margin: 0px;
-  padding: 0px;
-  border: none;
-  outline: none;
-  text-decoration: none;
-  font-size: 14px;
+  background-color: #121212;
 }
 
 img {
@@ -27,10 +13,16 @@ img {
   height: 300px;
 }
 
-a {
-  text-decoration: none;
-  cursor: pointer;
-}
-a:hover {
-  text-decoration: underline;
+h1,
+h2,
+h3,
+h4,
+h5,
+a,
+textarea,
+pre,
+input,
+select {
+  color: rgb(241, 241, 241);
+  font-family: 'Inter', sans-serif;
 }
