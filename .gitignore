@@ -28,3 +28,9 @@ firebase.json
 firebase.indexes.json
 firebase.rules
 functions
+
+# yarn
+.yarn
+.yarn.lock
+/.yarn/
+.yarnrc.yml
