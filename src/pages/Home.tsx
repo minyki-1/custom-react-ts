@@ -1,16 +1,16 @@
-import styled from 'styled-components' 
-
-const Container = styled.div`
-  width:100%;
-  min-height:100%;
-` 
+import styled from 'styled-components'
 
 function Home() {
   return (
     <Container>
-      App
+      <h1>App</h1>
     </Container>
   )
 }
+
+const Container = styled.div`
+  width:100%;
+  min-height:100%;
+`
 
 export default Home
