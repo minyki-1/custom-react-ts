@@ -31,6 +31,9 @@ functions
 
 # yarn
 .yarn
-.yarn.lock
+yarn.lock
 /.yarn/
+/.yarn
 .yarnrc.yml
+.pnp.cjs
+.pnp.loader.mjs
