@@ -57,6 +57,7 @@ a {
 *{
 	outline: none;
 	color: white;
+	background-color: initial;
 	font-family: 'Inter', sans-serif;
 }
 
@@ -68,3 +69,17 @@ img {
   width: 300px;
   height: 300px;
 }
+
+
+/* h1{
+	
+}
+h2{
+
+}
+h3{
+
+}
+h4{
+
+} */
