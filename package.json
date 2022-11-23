@@ -16,7 +16,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "setYarnBerry":"npm install -g yarn && yarn set version berry && yarn install && yarn add react-is && yarn add @yarnpkg/sdks -D && yarn dlx @yarnpkg/sdks vscode"
+    "yarn2": "npm install -g yarn && yarn set version berry && yarn install && yarn add react-is && yarn dlx @yarnpkg/sdks vscode"
   },
   "browserslist": {
     "production": [
