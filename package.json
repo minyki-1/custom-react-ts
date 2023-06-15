@@ -8,7 +8,7 @@
     "react-router": "latest",
     "react-router-dom": "latest",
     "react-scripts": "latest",
-    "styled-components": "latest"
+    "styled-components": "latest",
     "typescript": "latest"
   },
   "scripts": {
